@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <objects>
-        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TapResponderChainInputView" customModule="TapResponderChainInputView">
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="TapResponderChainInputView" customModule="TapResponderChainInputViewV2">
             <connections>
                 <outlet property="nextButton" destination="tlD-mm-3bN" id="AuQ-C8-gy2"/>
                 <outlet property="previousButton" destination="hap-Lv-taf" id="fTM-Gv-5cL"/>

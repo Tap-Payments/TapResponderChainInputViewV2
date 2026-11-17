@@ -5,6 +5,7 @@
 //  Copyright © 2019 Tap Payments. All rights reserved.
 //
 
+import Foundation
 import struct   CoreGraphics.CGGeometry.CGPoint
 import struct   CoreGraphics.CGGeometry.CGRect
 import struct   CoreGraphics.CGGeometry.CGSize
