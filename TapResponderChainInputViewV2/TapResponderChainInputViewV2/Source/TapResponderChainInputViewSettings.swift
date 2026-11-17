@@ -5,7 +5,6 @@
 //  Copyright © 2019 Tap Payments. All rights reserved.
 //
 
-import Foundation
 import class UIKit.UIColor.UIColor
 import class UIKit.UIImage.UIImage
 
